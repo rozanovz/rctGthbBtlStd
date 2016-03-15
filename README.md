@@ -1,4 +1,4 @@
 ####git clone
 ####npm install
-####mpm start
+####npm start
 ####open browser at localhost:8080
